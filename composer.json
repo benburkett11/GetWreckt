@@ -1,0 +1,13 @@
+{
+  "name": "Get Wreckt Scrape",
+  "description": "Scraper",
+  "authors": [
+    {
+      "name": "Benjamin Burkett",
+      "email": "benburkett11@gmail.com"
+    }
+  ],
+  "require": {
+    "php-curl-class/php-curl-class": "^4.6"
+  }
+}
